@@ -1,4 +1,4 @@
 module.exports = {
-  mongoURI: "mongodb://127.0.0.1:27017/notes",
-  secretOrKey: "secretnordcloudkey",
+  mongoURI: "YOUR_MONGO_URI_HERE",
+  secretOrKey: "secret"
 };
